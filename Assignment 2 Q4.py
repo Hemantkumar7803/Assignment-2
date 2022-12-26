@@ -1,5 +1,5 @@
 # Assignment-2
- input("Enter a number here")
+a = input("Enter a number here")
 b = input("Enter a number here")
 c = input("Enter a number here")
 
